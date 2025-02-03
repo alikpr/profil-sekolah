@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('../images/school-bg.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 800px;
+}
+
+footer {
+    margin-top: 50px;
+}
